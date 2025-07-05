@@ -46,8 +46,6 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelocarlotto&show_icons=true&theme=default" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelocarlotto&layout=compact&langs_count=10" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=angelocarlotto&theme=default" />
