@@ -38,7 +38,7 @@
 
 📬 **Contact Me**
 
-- 📧 Email: [angelocsarlotto@gmail.com](mailto:angelocsarlotto@gmail.com)  
+- 📧 Email: [angelocarlotto@gmail.com](mailto:angelocarlotto@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/angelocarlotto](https://linkedin.com/in/angelocarlotto)
 
 ---
@@ -53,8 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=angelocarlotto&theme=default" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelocarlotto&theme=default" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelocarlotto&theme=github-light" />
 </p>
 
 ---
