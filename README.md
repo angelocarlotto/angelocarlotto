@@ -17,7 +17,7 @@
 - 👨‍💼 10+ years of experience in software engineering, DevOps, and system analysis  
 - 💡 Passionate about backend systems, automation, and clean code  
 - ⚙️ Core tech stack:  
-  `C#`, `JavaScript`, `Python`, `SQL`, `ReactJS`, `Node.js`, `ASP.NET`, `MongoDB`, `Docker`
+  `C#`, `SQL`, `ReactJS`, `Node.js`, `MongoDB`, `Docker`
 
 ---
 
