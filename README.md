@@ -12,7 +12,7 @@
 🧑‍💻 **About Me**
 
 - 🎓 Diploma in Computer Programming (Georgian College – Aug. 2025 )
-- 🎓 Diploma in Scienci Computer ( UFMT?Brasil - Nov 2011 )
+- 🎓 Diploma in Scienci Computer ( UFMT/Brazil - Nov 2011 )
 - 📍 Based in Toronto, Canada  
 - 👨‍💼 10+ years of experience in software engineering, DevOps, and system analysis  
 - 💡 Passionate about backend systems, automation, and clean code  
